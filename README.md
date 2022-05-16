@@ -2,7 +2,7 @@
 
 ## About the application
 
-
+This is a back-end application for an e-commerce site with no front-end. The application used node.js to utilize express to connect the api and construct it using sequelize. Using sequelize to work with the MySQL database.
 
 ## User Story
 
